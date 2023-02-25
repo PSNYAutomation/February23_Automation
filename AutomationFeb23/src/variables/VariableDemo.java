@@ -14,7 +14,9 @@ public class VariableDemo {
 		System.out.println(firstName + " " + lastName + " " + 
 		 "Lives in " + house);
 		
+		// Creating an object of Calculator class 
 		Calculator calc = new Calculator();
+		//calling add method 
 		System.out.println(calc.add(76, 29));
 
 	}
