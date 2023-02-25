@@ -6,6 +6,15 @@ public class VariableDemo {
 		
 		System.out.println("How are you?");
 		
+		String firstName = "Qazi";
+		String lastName = "Ali";
+		int zipCode = 11218;
+		String house = "95 Louisa St.";
+		
+		System.out.println(firstName + " " + lastName + " " + 
+		 "Lives in " + house);
+		
+		
 
 	}
 
