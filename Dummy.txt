@@ -1,1 +1,2 @@
 It is a dummy file. 
+The file got committed properly !!
