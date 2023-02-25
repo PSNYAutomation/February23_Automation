@@ -2,6 +2,7 @@ package variables;
 
 public class Calculator {
 
+	//this metod will add two int values 
 	public int add(int a, int b) {
 
 		int result = a + b;
