@@ -14,7 +14,8 @@ public class VariableDemo {
 		System.out.println(firstName + " " + lastName + " " + 
 		 "Lives in " + house);
 		
-		
+		Calculator calc = new Calculator();
+		System.out.println(calc.add(76, 29));
 
 	}
 
